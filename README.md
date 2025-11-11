@@ -15,6 +15,13 @@ A full-featured UART serial communication application for Flipper Zero that enab
 - 🎯 **User-Friendly Interface**: Intuitive navigation and text input
 - 🔄 **Real-Time Updates**: Incoming messages appear instantly (100ms polling)
 
+## Screen Shots
+![image info](https://github.com/osmangokc/flipper_serial_chat/blob/main/screenshots/1.png)
+
+![image info](https://github.com/osmangokc/flipper_serial_chat/blob/main/screenshots/2.png)
+
+![image info](https://github.com/osmangokc/flipper_serial_chat/blob/main/screenshots/3.png)
+
 ## Supported Serial Configurations
 
 ### Baudrate Options
