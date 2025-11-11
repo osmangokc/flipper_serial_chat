@@ -6,6 +6,7 @@ App(
     requires=["gui", "storage"],
     stack_size=8 * 1024,
     fap_category="GPIO",
+    fap_icon="icons/serial_chat_10px.png",
     fap_version="1.0",
     fap_description="UART Serial Chat for Flipper Zero",
     fap_author="Osman Gokce",
